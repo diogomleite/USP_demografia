@@ -4,7 +4,7 @@ Algoritmo de análise de dados demográficos e de transparência orçamentária 
 O algoritmo Python contém instruções sobre como operar as análises, e produz os arquivos .xlsx em anexo (versão atual: dados de 2022 e orçamento de 2023).
 
 Os arquivos foram utilizados para criar visualizações no Flourish:
-- Gastos com terceirizados por Unidade: https://public.flourish.studio/visualisation/14483780/
+- Gastos com terceirizados: https://public.flourish.studio/story/1982773/
 - Distribuição étnica por Unidade: https://public.flourish.studio/visualisation/14344620/
 - Orçamento por aluno de graduação, por Unidade: https://public.flourish.studio/visualisation/14345671/
 - Student to faculty ratio, por Unidade: https://public.flourish.studio/visualisation/14345748/
